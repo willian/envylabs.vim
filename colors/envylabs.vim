@@ -42,10 +42,10 @@ if &background == "light"
   hi Comment     guifg=#DB6E6E
   hi Todo        guifg=#333333 guibg=bg gui=bold
   hi Constant    guifg=#9D69FA          gui=none
-  hi String      guifg=#7BB678          gui=none
+  hi String      guifg=#6D996B          gui=none
   hi Identifier  guifg=#FD971F          gui=none
   hi Function    guifg=#9D69FA          gui=none
-  hi Type        guifg=#B579C9          gui=none
+  hi Type        guifg=#B479C9          gui=none
   hi Statement   guifg=#659CE6          gui=none
   hi Keyword     guifg=#659CE6          gui=none
   hi PreProc     guifg=#659CE6          gui=none
