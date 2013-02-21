@@ -4,13 +4,16 @@ A color scheme for Vim based on syntax highlight used on Envy Labs' Blog
 
 ## Screenshots
 ### Ruby:
-![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/ruby.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/ruby_dark.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/ruby_light.png)
 
 ### Python:
-![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/python.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/python_dark.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/python_light.png)
 
 ### Javascript:
-![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/javascript.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/javascript_dark.png)
+![image](https://raw.github.com/willian/envylabs.vim/master/screenshots/javascript_light.png)
 
 ## Installation
 Just copy the file on your .vim/colors folder.
